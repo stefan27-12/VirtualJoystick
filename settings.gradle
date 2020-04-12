@@ -1,0 +1,2 @@
+rootProject.name='VirtualJoystick'
+include ':app'
